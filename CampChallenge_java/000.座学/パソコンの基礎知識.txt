@@ -1,0 +1,30 @@
+■PC名
+ThinkPad E440
+
+
+■OS
+Windows 10 Home 64bit OS
+
+
+■ディスプレイ
+14インチ(1,366×768ドット)
+
+
+■CPU
+intel(r) core(tm) i5-4210m
+クロック周波数:2.6GHz
+コア数:2
+スレッド数:4
+キャッシュ:3 MB SmartCache
+
+
+■主記憶
+4GB(PC3-12800 DDR3L SDRAM)
+
+
+■HDD
+500GB(5400rpm)
+
+
+■Diskドライブ
+DVDスーパーマルチ ・ドライブ
