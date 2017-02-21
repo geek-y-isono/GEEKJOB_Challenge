@@ -37,14 +37,24 @@ public class User extends Human{
         }
         
         public int open(){
-            int sum=0;
+            int sum=0,acount=0;
             for(int i=0;i<myCards.size();i++){
                 if(myCards.get(i)>10){
                     sum += 10;
                 }
+                else if(myCards.get(i)==1){
+                    sum += 11;
+                    acount++;
+                }
                 else{
                     sum += myCards.get(i);
                 }
+            }
+            while(acount>0){
+                if(sum>21){
+                    sum -= 10;
+                }
+                acount--;
             }
             return sum;
         }
